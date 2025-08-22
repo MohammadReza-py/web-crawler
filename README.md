@@ -31,7 +31,7 @@ This project uses **Asynchronous Programming (async/await)** in Python:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/web-crawler.git
+git clone https://github.com/MohammdReza-py/web-crawler.git
 cd web-crawler
 pip install -r requirements.txt
 ```
